@@ -1,4 +1,4 @@
-# Concentration
+# Concentration - React
 
 For magic afternoon, we're going to create a basic concentration game with images from an API. Hitting our api will give you back an image. Our application should save the number of that image and then let a user guess where the matching image exists.
 
